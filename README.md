@@ -20,7 +20,14 @@ I was assigned this project during a higher engineering skills workshop conducte
 <img src="Photos/add_staff.jpg" alt="Front" width="625" height="350"><br/>
 <img src="Photos/add_staff_successful.jpg" alt="Front" width="625" height="350"><br/>
 
-### Search Staff
+### Search for Staff
 <img src="Photos/search_staff.jpg" alt="Front" width="625" height="350"><br/>
 <img src="Photos/search_results_staff.jpg" alt="Front" width="625" height="350"><br/>
 
+### Update Staff details
+<img src="Photos/update_staff.jpg" alt="Front" width="625" height="350"><br/>
+<img src="Photos/edit_staff.jpg" alt="Front" width="625" height="350"><br/>
+<img src="Photos/edit_staff_successful.jpg" alt="Front" width="625" height="350"><br/>
+
+### MySQL database
+<img src="Photos/database.jpg" alt="Front" width="625" height="350"><br/>
