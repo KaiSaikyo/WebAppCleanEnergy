@@ -1,1 +1,8 @@
+li { 
 
+    display: inline-block;
+    background: yellow;
+    color:blue;
+    margin-right: 10px;
+    
+    }
