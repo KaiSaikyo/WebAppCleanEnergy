@@ -10,3 +10,17 @@ I was assigned this project during a higher engineering skills workshop conducte
 - Design a page that allows users to update staff member information
 
 ### Main page
+<img src="Photos/main_page.jpg" alt="Front" width="625" height="350"><br/>
+<img src="Photos/avd_example.jpg" alt="Front" width="305" height="250"><br/>
+
+### List all Staff
+<img src="Photos/list_all_staff.jpg" alt="Front" width="625" height="350"><br/>
+
+### Add Staff
+<img src="Photos/add_staff.jpg" alt="Front" width="625" height="350"><br/>
+<img src="Photos/add_staff_successful.jpg" alt="Front" width="625" height="350"><br/>
+
+### Search Staff
+<img src="Photos/search_staff.jpg" alt="Front" width="625" height="350"><br/>
+<img src="Photos/search_results_staff.jpg" alt="Front" width="625" height="350"><br/>
+
